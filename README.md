@@ -64,5 +64,4 @@ Estudiante de 2.º año de Administración de Sistemas Informáticos y Redes (AS
 ## Contacto
 
 * **Email:** jazminalvarengavvb@gmail.com
-* **Teléfono:** +34 655831607
 * **LinkedIn:** https://www.linkedin.com/in/jazmin-alvarenga-a34160350/
